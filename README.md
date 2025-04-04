@@ -37,3 +37,6 @@
 ###
 
 ###
+<img src="https://raw.githubusercontent.com/st10494185/st10494185/output/snake.svg" alt="Snake animation" />
+
+###
