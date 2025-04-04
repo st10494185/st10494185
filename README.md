@@ -31,7 +31,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/WhatsApp/WhatsApp-original.svg" height="40" alt="WhatsApp logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" height="40" alt="whatsapp logo"  />
 </div>
 
 ###
