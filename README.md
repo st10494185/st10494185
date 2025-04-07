@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is Ruth Mutala Kabeya.I studied Computer Science at Varisty College for 3 years. I am a junior software engineer from Cape Town.</p>
+<p align="left">My name is Ruth Mutala Kabeya.I am a junior software engineer from Cape Town.</p>
 
 ###
 
