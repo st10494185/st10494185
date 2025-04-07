@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is Ruth Mutala Kabeya. I am a junior software engineer working at Amazon.</p>
+<p align="left">My name is Ruth Mutala Kabeya.I studied Computer Science at Varisty College for 3 years. I am a junior software engineer from Cape Town.</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨During my childhood i always wanted to study computer science, finding myself in the Tech Faculty was a dream come true. After Graduating i recieved my dream job at Amazon as a Software Engineer.<br>📚 I'm currently designing software systems at Amazon and I am really enjoying it.<br>🎯 Goals: My goals is to study my Masters in Computer Science at the University of Cape Town.<br>🎲 Fun fact: American computer scientist Margaret Hamilton created the term "Software Engineer" in 1963 to describe her work, and she was also critical to landing astronauts on the moon for the first time. </p>
+<p align="left">✨During my childhood i always wanted to study computer science, finding myself in the Tech Faculty was a dream come true. After Graduating i would like to work with Amazon my as a Software Engineer.<br>📚 I'm currently developing Apps here in my institution and I am really enjoying it.<br>🎯 Goals: My goals is to study my Masters in Computer Science at the University of Cape Town.<br>🎲 Fun fact: American computer scientist Margaret Hamilton created the term "Software Engineer" in 1963 to describe her work, and she was also critical to landing astronauts on the moon for the first time. </p>
 
 ###
 
