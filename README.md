@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is Ruth Mutala Kabeya. I am a software engineer working at Amazon.</p>
+<p align="left">My name is Ruth Mutala Kabeya. I am a junior software engineer working at Amazon.</p>
 
 ###
 
