@@ -20,23 +20,33 @@
 
 ###
 
-<p align="left">✨During my childhood i always wanted to study IT. Finding myself in the Tech Faculty was a dream come true. After Graduating i would like to work at any big Tech company as a Data Analyst.<br>📚 I'm currently developing Apps here in my institution, and I am really enjoying it.<br>🎯 Goals: My goals are to study my Master's in Data Analytics at the University of Cape Town.<br>🎲 Fun fact: American computer scientist Margaret Hamilton created the term "Software Engineer" in 1963 to describe her work, and she was also critical to landing astronauts on the moon for the first time. </p>
+<p align="left">✨During my childhood, I always wanted to study IT. Finding myself in the Tech Faculty was a dream come true. After Graduating i would like to work at any big Tech company as a Data Analyst.<br>📚 I'm currently developing Apps here in my institution, and I am really enjoying it.<br>🎯 Goals: My goals are to study my Master's in Data Analytics at the University of Cape Town.<br>🎲 Fun fact: American computer scientist Margaret Hamilton created the term "Software Engineer" in 1963 to describe her work, and she was also critical to landing astronauts on the moon for the first time. </p>
 
 ###
 
-<h2 align="left">I coded with Java, MySQL, and am currently learning C # (CSharp). </h2>
+<h2 align="left">I coded with Java, MySQL, and I am currently learning C # (CSharp). </h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-<img width="733" height="135" alt="image" src="https://github.com/user-attachments/assets/62fd343f-1d2b-4777-9e28-627a87056b9b" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+<img width="738" height="560" alt="image" src="https://github.com/user-attachments/assets/79b7ac62-c96e-4dba-8b67-752a175dcb44" />
+
 
 ###
 
