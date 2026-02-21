@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/55/2d/f7/552df77613e5f408fd704dfea247247a.gif" alt="Profile Banner" width="100%" />
+  <img src="https://gifdb.com/images/high/garfield-hi-there-x56za8sbunnzyn1b.gif" alt="Profile Banner" width="100%" />
 </div>
 
 <div align="center">
+<img width="805" height="135" alt="image" src="https://github.com/user-attachments/assets/529726f9-92f4-4b3b-9878-e9e977ada0ee" />
+
 
 # Hi 👋, I'm Ruth Kabeya
 
@@ -21,7 +23,7 @@
 
 <div align="left">
 
-- 🌱 I'm currently learning **I am currently learning Csharp C#.**
+- 🌱 **I am currently learning Csharp C#.**
 
 </div>
 
