@@ -65,12 +65,7 @@ Emeris offers the best education in the IT faculty. The lecturers are helpful, h
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=st10494185&layout=compact&theme=dark&langs_count=10)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=st10494185&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=st10494185&theme=dark&column=7&margin-w=15&margin-h=15)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=st10494185&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
 </div>
