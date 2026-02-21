@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://gifdb.com/images/high/garfield-hi-there-x56za8sbunnzyn1b.gif" alt="Profile Banner" width="100%" />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-
-<div align="center">
-<img width="805" height="135" alt="image" src="https://github.com/user-attachments/assets/529726f9-92f4-4b3b-9878-e9e977ada0ee" />
-
 
 # Hi 👋, I'm Ruth Kabeya
 
