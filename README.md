@@ -1,4 +1,4 @@
-# st10494185PROG5121 Ruth Mutala Kabeya
+# st10494185 Ruth Mutala Kabeya
 <p align="left">Hey There!!</p>
 
 ###
