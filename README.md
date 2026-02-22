@@ -32,7 +32,7 @@
 |---|---|---|
 | IIE Emeris | Bachelor's of computer and information science in Application Development | 2025-02 - 2027-01 |
 
-### Bachelor's of computer and information science in Application Development in IT
+### IT Faculty
 *IIE Emeris*
 
 Emeris offers the best education in the IT faculty. The lecturers are helpful, hardworking, and passionate about what they do, which motivates the class.
@@ -73,8 +73,12 @@ Emeris offers the best education in the IT faculty. The lecturers are helpful, h
 ---
 
 ### 💻 Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;&nbsp;![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="left">
+  
+img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
 ### 💻 Programming Languages
 
